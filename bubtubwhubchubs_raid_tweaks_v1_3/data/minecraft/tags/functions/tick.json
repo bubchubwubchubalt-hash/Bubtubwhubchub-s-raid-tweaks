@@ -1,0 +1,11 @@
+{
+  "values": [
+    "illager_teams:join_team",
+    "illager_teams:cleanup_arrows",
+    "illager_teams:heal_timer",
+    "illager_teams:give_evoker_totems",
+    "illager_teams:assign_evoker_slots",
+    "illager_teams:link_vexes_to_evoker",
+    "illager_teams:kill_orphaned_vexes"
+  ]
+}

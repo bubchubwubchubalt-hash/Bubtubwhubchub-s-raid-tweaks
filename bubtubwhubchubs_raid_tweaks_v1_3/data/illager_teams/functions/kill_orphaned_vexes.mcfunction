@@ -1,0 +1,8 @@
+execute unless entity @e[type=evoker,tag=slot_1] run kill @e[type=vex,tag=slot_1]
+execute unless entity @e[type=evoker,tag=slot_2] run kill @e[type=vex,tag=slot_2]
+execute unless entity @e[type=evoker,tag=slot_3] run kill @e[type=vex,tag=slot_3]
+execute unless entity @e[type=evoker,tag=slot_4] run kill @e[type=vex,tag=slot_4]
+execute unless entity @e[type=evoker,tag=slot_5] run kill @e[type=vex,tag=slot_5]
+execute unless entity @e[type=evoker,tag=slot_6] run kill @e[type=vex,tag=slot_6]
+execute unless entity @e[type=evoker,tag=slot_7] run kill @e[type=vex,tag=slot_7]
+execute unless entity @e[type=evoker,tag=slot_8] run kill @e[type=vex,tag=slot_8]

@@ -1,0 +1,1 @@
+execute as @e[type=#minecraft:raiders,team=] run team join illagers @s
